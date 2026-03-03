@@ -39,4 +39,4 @@ Highest consumer trust industries: [Based on your query results]
 Best revenue improvement years: Identified the year with maximum revenue increase due to AI
 
 
-<a href= "https://goddy201.github.io/EDA-for-Global-AI-Impact/blob/main/EDA_global_AI_Impact.sql"> Query</a>
+[EDA_global_AI_Impact.sql](EDA_global_AI_Impact.sql)
