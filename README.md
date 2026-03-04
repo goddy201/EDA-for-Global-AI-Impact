@@ -3,25 +3,30 @@ To analyze the global impact of artificial intelligence
 ## Overview
 This project performs an exploratory data analysis (EDA) on a global AI impact dataset using SQL. The analysis examines various dimensions of AI adoption and its effects across different countries, industries, and time periods.
 ## Objectives
-Analyze AI adoption patterns across different countries and industries
-Investigate the relationship between AI adoption and key metrics (revenue, job loss, consumer trust)
-Identify trends in AI tool usage and market dynamics
-Explore regulatory impacts on AI implementation
+<p> Analyze AI adoption patterns across different countries and industries </p>
+<p> Investigate the relationship between AI adoption and key metrics (revenue, job loss, consumer trust) </p>
+<p> Identify trends in AI tool usage and market dynamics </p>
+<p> Explore regulatory impacts on AI implementation </p>
+
 ## Key Analyses Performed
 ### Geographic Analysis
-Record distribution by country: Counted entries per country to understand data coverage
-AI adoption rates by country: Identified leading and lagging nations in AI adoption
-Top countries by AI company market share: Ranked countries based on AI industry presence
+<p> Record distribution by country: Counted entries per country to understand data coverage </p>
+<p> AI adoption rates by country: Identified leading and lagging nations in AI adoption </p>
+<p> Top countries by AI company market share: Ranked countries based on AI industry presence </p>
+
 ### Industry Insight
-Human-AI collaboration rates: Analyzed which industries have the highest collaboration levels
-Consumer trust in AI: Evaluated trust levels across different sectors
+<p> Human-AI collaboration rates: Analyzed which industries have the highest collaboration levels </p>
+<p> Consumer trust in AI: Evaluated trust levels across different sectors </p> 
+
 ### Trend Analysis
-Year-over-year AI adoption in the USA
-Yearly trends in AI-generated content volume
-Years with highest revenue increase and job loss
+<p> Year-over-year AI adoption in the USA </p>
+<p> Yearly trends in AI-generated content volume </p>
+<p> Years with highest revenue increase and job loss </p>
+
 ### Correlation Analysis
 <p> High adoption vs. low revenue: Countries where AI adoption >50% but revenue increase <20% </p>
 <p> High job loss vs. high collaboration: Instances where job loss >30% and collaboration >60% </p>
+  
 ## Key Insights
 <p> Country with Highest Average AI adoption rates: USA [64%] </p>
 <p> Country with The Highest Average Job Loss Due to AI: Canada [30.9%] </p>
