@@ -20,8 +20,8 @@ Year-over-year AI adoption in the USA
 Yearly trends in AI-generated content volume
 Years with highest revenue increase and job loss
 ### Correlation Analysis
-High adoption vs. low revenue: Countries where AI adoption >50% but revenue increase <20%
-High job loss vs. high collaboration: Instances where job loss >30% and collaboration >60%
+<p> High adoption vs. low revenue: Countries where AI adoption >50% but revenue increase <20% </p>
+<p> High job loss vs. high collaboration: Instances where job loss >30% and collaboration >60% </p>
 ## Key Insights
 <p> Country with Highest Average AI adoption rates: USA [64%] </p>
 <p> Country with The Highest Average Job Loss Due to AI: Canada [30.9%] </p>
