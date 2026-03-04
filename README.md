@@ -29,4 +29,5 @@ High job loss vs. high collaboration: Instances where job loss >30% and collabor
 <p> Best revenue improvement years: Identified the year with maximum revenue increase due to AI </p>
 <p> Top Two Industries with Highest Human-AI Collaboration Rate: Education [58.8%]; Manufacturing [55.9%] </p>
 <p> Top Three Most Used AI Tools: Midjourney [37]; Claude [31]; ChatGPT [31] </p>
-<p> [EDA_global_AI_Impact.sql](EDA_global_AI_Impact.sql) </p>
+
+<a href= 
