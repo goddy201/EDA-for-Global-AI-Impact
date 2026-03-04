@@ -30,4 +30,4 @@ High job loss vs. high collaboration: Instances where job loss >30% and collabor
 <p> Top Two Industries with Highest Human-AI Collaboration Rate: Education [58.8%]; Manufacturing [55.9%] </p>
 <p> Top Three Most Used AI Tools: Midjourney [37]; Claude [31]; ChatGPT [31] </p>
 
-<a href= 
+- <a href= "https://github.com/goddy201/EDA-for-Global-AI-Impact/blob/main/EDA_global_AI_Impact.sql"> Query</a>
